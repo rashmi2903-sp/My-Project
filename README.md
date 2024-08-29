@@ -1,1 +1,1 @@
-JQuery Projects
+JQuery-Bootstrap Projects
